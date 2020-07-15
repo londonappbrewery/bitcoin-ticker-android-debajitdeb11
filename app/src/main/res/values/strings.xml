@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">Am I Rich?</string>
-    <string name="label_default_text">304.74</string>
+    <string name="label_default_text">0.0</string>
     <string name="label_error_text">Error</string>
     <string name="base">Base Currency</string>
     <string name="imageview_desc">Bitcoin Logo</string>
+    <string name="copyright">Design &amp; Developed by Debajit Deb</string>
 
     <string-array name="currency_array">
         <item>AUD</item>
@@ -19,6 +20,7 @@
         <item>SEK</item>
         <item>USD</item>
         <item>ZAR</item>
+        <item>INR</item>
     </string-array>
 
 
